@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jZ+n6uL/C719BK24ReO8pEdk3puMWVsfJTmADMc3CNA=",
+  "Source": "dotnet-simple",
+  "BasePath": "_content/dotnet-simple",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
