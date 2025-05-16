@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/colin/Code/grafana/dotNet-manual-tracing-example/dotnet-otel-example/dotnet-otel-example.csproj": {}
+    "/home/amit/repos/amit-singh-7--dotnet-otel-example-main/dotnet-otel-example/dotnet-otel-example.csproj": {}
   },
   "projects": {
-    "/Users/colin/Code/grafana/dotNet-manual-tracing-example/dotnet-otel-example/dotnet-otel-example.csproj": {
+    "/home/amit/repos/amit-singh-7--dotnet-otel-example-main/dotnet-otel-example/dotnet-otel-example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/colin/Code/grafana/dotNet-manual-tracing-example/dotnet-otel-example/dotnet-otel-example.csproj",
+        "projectUniqueName": "/home/amit/repos/amit-singh-7--dotnet-otel-example-main/dotnet-otel-example/dotnet-otel-example.csproj",
         "projectName": "dotnet-otel-example",
-        "projectPath": "/Users/colin/Code/grafana/dotNet-manual-tracing-example/dotnet-otel-example/dotnet-otel-example.csproj",
-        "packagesPath": "/Users/colin/.nuget/packages/",
-        "outputPath": "/Users/colin/Code/grafana/dotNet-manual-tracing-example/dotnet-otel-example/obj/",
+        "projectPath": "/home/amit/repos/amit-singh-7--dotnet-otel-example-main/dotnet-otel-example/dotnet-otel-example.csproj",
+        "packagesPath": "/home/amit/.nuget/packages/",
+        "outputPath": "/home/amit/repos/amit-singh-7--dotnet-otel-example-main/dotnet-otel-example/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/colin/.nuget/NuGet/NuGet.Config"
+          "/home/amit/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -32,17 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "OpenTelemetry.Exporter.Console": {
               "target": "Package",
@@ -76,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/linuxbrew/.linuxbrew/Cellar/dotnet@8/8.0.13/libexec/sdk/8.0.113/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
